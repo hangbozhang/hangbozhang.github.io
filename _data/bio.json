@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Hangbo Zhang",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://hangbozhang.github.io/images/head.png",
+    "email": "hangbo@hawaii.edu",
+    "phone": "",
+    "website": "https://hangbo.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,36 +17,26 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "hangbozhang",
+        "url": "http://github.com/hangbozhang"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "hangbo zhang",
+        "url": "http://linkedin.com/in/hangbo-zhang-2b0ab37b/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "NCL"
+
       ]
     },
     {
-      "name": "data mining",
+      "name": "cybersecurity",
       "keywords": [
       ]
     },
@@ -65,31 +55,33 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-021",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.92",
       "courses": [
+        "ICS 111",
+        "ICS 211",
+        "ICS 241",
+        "ICS 212 (current)",
+        "ICS 311 (current)",
+        "ICS 314 (current)"
       ]
     }
   ],
