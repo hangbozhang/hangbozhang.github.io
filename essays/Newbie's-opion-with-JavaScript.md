@@ -11,7 +11,7 @@ labels:
   - freeCodeCamp
 ---
 
-<img class="ui medium left floated image" src="">
+<img class="ui medium left floated image" src="../images/freeCodeCamp.png">
 
 # Java VS JavaScript 
 As new to the Javascript, I find it is kind easy to switch from Java to Javascript as they have the same basic concepts and framework. The biggest difference that I experienced is that in Javascript when you declare a variable, you don’t need to declare it’s data type (no return type for functions). This can be either a good or bad thing. For the good side, the code will look cleaner and also for some cases you can just have one function to return both number and string instead of java’s one function for each data type. For the bad side, it will be harder for programmers to debug and easy to lose track of the variable which will require a much clearer variable name. Another difference is you don’t need a main method to print out the results and also it can print entire array and list without loop which is more convenient than in java. With these being said, I think Javascript is better than java so far (I may change my mind as get deeper into Javascript and find it is much harder).
