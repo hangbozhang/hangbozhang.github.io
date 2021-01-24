@@ -8,7 +8,7 @@ permalink: projects/enfire
 # All dates must be YYYY-MM-DD format!
 date: 2017-09-21
 labels:
-  - Laser range find
+  - Laser range finder
   - Map editing
   - SOP
 summary: I developed the SOP in the use of new equipment ENFIRE kit for my company
