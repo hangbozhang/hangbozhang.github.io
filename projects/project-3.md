@@ -13,9 +13,9 @@ labels:
 summary: A hexadecimal sudoku solving program i developed in ICS 211.
 ---
 <div class="ui images">
-  <img class="ui image" src="../images/hexsudoku2.png">
-  <img class="ui image" src="../images/hexsudoku3.png">
-  <img class="ui image" src="../images/hexsudoku4.png">
+  <img class="ui medium image" src="../images/hexsudoku2.png">
+  <img class="ui medium image" src="../images/hexsudoku3.png">
+  <img class="ui medium image" src="../images/hexsudoku4.png">
 </div>
 
 This program is designed to solve the hexadecimal sudoku. If it can solve the problem it will return the first possible solution. If it can not solve the problem it will give the statement of why it can not such as format error, value error and so on.
