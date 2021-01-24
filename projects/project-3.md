@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: img class="ui medium image" src="../images/hexsudoku1.png"
+image: images/hexsudoku1.png
 title: Hexadecimal Sudoku
 permalink: projects/hexadecimal sudoku
 # All dates must be YYYY-MM-DD format!
