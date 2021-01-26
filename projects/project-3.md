@@ -25,5 +25,5 @@ I wrote this program by myself with the help from instructor Cam Moore.
 I learned how to check the legal value of the sudoku and how to fill it and also learned how computer is solving this kind problem.
 
 
-Source: <a href="src/edu/ics211/h09/HexadecimalSudoku.java"><i class="large github icon "></i>ics211 Hexadecimal Sudoku</a>
+Source: <a href="https://github.com/hangbozhang/Demonkevin/blob/master/src/edu/ics211/h09/HexadecimalSudoku.java"><i class="large github icon "></i>ics211 Hexadecimal Sudoku</a>
 
