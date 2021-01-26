@@ -22,4 +22,4 @@ CSSA is implemented using HTML. Within 3 weeks, we create the frame of the websi
 
 In this project I gained experience with HTML to create a website and how to update the information within the website. Also I have learned how to work together as a team to finish the project.
  
-Source: <a href="https://involvement.und.edu/organization/cssa"><i class="large github icon "></i></a>
+Source: <a href="https://involvement.und.edu/organization/cssa"></i>UND CSSA</a></i></a>
