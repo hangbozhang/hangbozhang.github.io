@@ -9,7 +9,7 @@ labels:
   - computer
 ---
 
-<img class="ui tiny right spaced image" src="">
+<img class="ui image" src="../images/computer.jpg">
 
 A computer, by definition, is a machine that can be instructed to carry out sequence of arithmetic or logical operations automatically via computer programming from Wikipedia. From what I learned in the class a computer is basically a machine that can do different types of computation as designed by human being. There are 7 basic concepts of computation that was mentioned in the class, data (type), counting (induction, recursion), state (co-induction), program (computability), software (metaprogramming), hardness (complexity) and communication, information, network.
 
