@@ -10,9 +10,13 @@ labels:
   - UI Framework
   - Semantic UI
 ---
-<img class="ui medium image" src="../images/badwebpage.png">
+<img class="ui image" src="../images/badwebpage.png">
 <h3>Question for you</h3>
-What came to your mind at the first sight of this web page? I believe most people will be just like me thinking “I must open a scam website. Let me close it and search again.”. Even after search again, you find it is the website you are looking for. It will still be a pain to find what you need. That is why UI frameworks are some important. It helps the web owner to present the contents in a more organized and simple way so that it can attract the user to stay and utilize the website. The simpleness but meaningful website is the beauty of UI framework.
+What came to your mind at the first sight of this web page? 
+
+<h3>Openning</h3>
+I believe most people will be just like me thinking “I must open a scam website. Let me close it and search again.”. Even after search again, you find it is the website you are looking for. It will still be a pain to find what you need. That is why UI frameworks are some important. It helps the web owner to present the contents in a more organized and simple way so that it can attract the user to stay and utilize the website. The simpleness but meaningful website is the beauty of UI framework.
+
 However, it takes a lot of time and effort to organize and arrange everything in a website using just the HTML and CSS. That is where something like Semantic UI come to play. It is not simple to learn that as it is almost as complicated to learn as a new programming language. But once you get familiar with it, you will find everything is way simpler than it was before.
 
 <h3>Adding image</h3>
