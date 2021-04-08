@@ -31,13 +31,14 @@
     {
       "name": "software engineering",
       "keywords": [
-        "NCL"
+        "Web application",
 
       ]
     },
     {
       "name": "cybersecurity",
       "keywords": [
+        "NCL",
       ]
     },
     {
@@ -55,6 +56,7 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML",
       ]
     },
     {
@@ -63,7 +65,9 @@
       "keywords": [
         "Ubuntu",
         "Git/GitHub",
-        "g++",
+        "IntelliJ",
+        "Visual Studio Code",
+        "Meteor/React/Semantic UI",
       ]
     }
   ],
@@ -103,7 +107,7 @@
       "website": "",
       "startDate": "2015-03-31",
       "endDate": "2019-09-30",
-      "summary": "Lead a team of 4 to accomplish any assigned mission",
+      "summary": "Lead a team of 4 to accomplish any assigned missions",
       "highlights": [
         "team management and time management",
         "communication bridge between team members and higher up"
