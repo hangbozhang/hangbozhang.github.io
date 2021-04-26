@@ -25,7 +25,7 @@ Let me explain this with my own web design experience.
 
 First is the design pattern from the javascript which is called Prototype.
 
-<img class="ui medium image" src="../images/prototype.png">
+[](images/prototype.png)
 
 In this image, I create a Prototype object called Signup which extends React.Component to get clones of react components which will be used later on to construct the Signup page. This might be not so clear on the Prototype design pattern. A better example will be like `class Circle extends Shape`. The object Circle will clone Shape and override with its state and function which is easier to start everything all over again.
 
