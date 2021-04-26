@@ -25,7 +25,7 @@ Let me explain this with my own web design experience.
 
 First is the design pattern from the javascript which is called Prototype.
 
-[](images/prototype.png)
+<img class="ui image" src="../images/prototype.png">
 
 In this image, I create a Prototype object called Signup which extends React.Component to get clones of react components which will be used later on to construct the Signup page. This might be not so clear on the Prototype design pattern. A better example will be like `class Circle extends Shape`. The object Circle will clone Shape and override with its state and function which is easier to start everything all over again.
 
@@ -33,11 +33,11 @@ Second is the design pattern from the Meteor which is called Observer(Publish-Su
 
 This is publish call.
 
-<img class="ui medium image" src="../images/observer.png">
+<img class="ui image" src="../images/observer.png">
 
 This is subscribe call.
 
-<img class="ui medium image" src="../images/subscribe.png">
+<img class="ui image" src="../images/subscribe.png">
 
 
 In first image, I published the collections of professors and reviews while the user is logged in. Then in the second image, I pass the name of publication associate with professor and review collections and call the subscribe to access the professor and review data. So in this design pattern the data base is connected with the page where needs to use the data.
@@ -46,23 +46,23 @@ Third is the design pattern from the Meteor which is called MVC (Model-View-Cont
 
 This is model.
 
-<img class="ui medium image" src="../images/model.png">
+<img class="ui image" src="../images/model.png">
 
 This is view.
 
-<img class="ui medium image" src="../images/view.png">
+<img class="ui image" src="../images/view.png">
 
 These two combines as controller.
 
-<img class="ui medium image" src="../images/controller.png">
+<img class="ui image" src="../images/controller.png">
 
-<img class="ui medium image" src="../images/controller2.png">
+<img class="ui image" src="../images/controller2.png">
 
 In the first image, I create a model (MongoDB) with review collection. In the second image, I create a view to display all data in the review collection. In the third and forth image, I create a controller to act on both model and view that it controls the data flow into model object and updates the view whenever data changes. Therefore, the application's concerns are separated but still can interact with each other.
 
 Last but not least is the design pattern called Singleton.
 
-<img class="ui medium image" src="../images/singleton.png">
+<img class="ui image" src="../images/singleton.png">
 
 In the image, I create a class called ProfessorCollection to manage access to the MongoDB collection named "ProfessorCollection". A single instance of this class is created (variable "Professors") and exported to the rest of the application. Clients invoke methods on this instance to manipulate the collection such as publish, subscribe etc.
 
