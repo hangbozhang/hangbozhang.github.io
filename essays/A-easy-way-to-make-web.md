@@ -11,12 +11,14 @@ labels:
   - Meteor
 ---
 
-###What is the easy way?
+<h3>What is the easy way?</h3>
+
 The easy way to make Web app is the design pattern. "A design pattern describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution  a million times over, without ever doing it the same way twice."--Christopher Alexander, 1977.
 
 In another words, design patterns are just like templates or parent classes. You can make a the general solution (or maybe just how to solve a problem) in the template. Then apply this template to many different situations.
 
-###Why is it a easy way?
+<h3>Why is it a easy way?</h3>
+
 Some people may want to ask why is it easy since it seems you are just writing extra documentation which has no use to the actual problem?
 
 Let me explain this with my own web design experience. 
@@ -64,6 +66,6 @@ Last but not least is the design pattern called Singleton.
 
 In the image, I create a class called ProfessorCollection to manage access to the MongoDB collection named "ProfessorCollection". A single instance of this class is created (variable "Professors") and exported to the rest of the application. Clients invoke methods on this instance to manipulate the collection such as publish, subscribe etc.
 
-###Conclusion
+<h3>Conclusion</h3>
 
 From all these design patterns I am using, I don't have to solve or write code one by one to get everything connected and working as a whole. And it's very easy to do the same thing to a similar situation or problem based on these design patterns. Therefore, using design patterns is the easy way to make a web application.
