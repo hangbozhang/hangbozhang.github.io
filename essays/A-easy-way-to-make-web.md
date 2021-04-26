@@ -23,13 +23,13 @@ Some people may want to ask why is it easy since it seems you are just writing e
 
 Let me explain this with my own web design experience. 
 
-First is the design pattern from the javascript which is called Prototype.
+__First__ is the design pattern from the javascript which is called Prototype.
 
 <img class="ui image" src="../images/prototype.png">
 
 In this image, I create a Prototype object called Signup which extends React.Component to get clones of react components which will be used later on to construct the Signup page. This might be not so clear on the Prototype design pattern. A better example will be like `class Circle extends Shape`. The object Circle will clone Shape and override with its state and function which is easier to start everything all over again.
 
-Second is the design pattern from the Meteor which is called Observer(Publish-Subscribe). That is an object maintains a list of its dependents and notifies them automatically of any state changes.
+__Second__ is the design pattern from the Meteor which is called Observer(Publish-Subscribe). That is an object maintains a list of its dependents and notifies them automatically of any state changes.
 
 This is publish call.
 
@@ -42,7 +42,7 @@ This is subscribe call.
 
 In first image, I published the collections of professors and reviews while the user is logged in. Then in the second image, I pass the name of publication associate with professor and review collections and call the subscribe to access the professor and review data. So in this design pattern the data base is connected with the page where needs to use the data.
 
-Third is the design pattern from the Meteor which is called MVC (Model-View-Controller).
+__Third__ is the design pattern from the Meteor which is called MVC (Model-View-Controller).
 
 This is model.
 
@@ -60,7 +60,7 @@ These two combines as controller.
 
 In the first image, I create a model (MongoDB) with review collection. In the second image, I create a view to display all data in the review collection. In the third and forth image, I create a controller to act on both model and view that it controls the data flow into model object and updates the view whenever data changes. Therefore, the application's concerns are separated but still can interact with each other.
 
-Last but not least is the design pattern called Singleton.
+__Last but not least__ is the design pattern called Singleton.
 
 <img class="ui image" src="../images/singleton.png">
 
