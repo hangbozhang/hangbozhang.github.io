@@ -14,9 +14,9 @@ labels:
 summary: A web application my team and I developed to rate the professor and courses in UH
 ---
 <div class="ui images">
-  <img class="ui medium image" src="../images/landing.png">
-  <img class="ui medium image" src="../images/list-professor.png">
-  <img class="ui medium image" src="../images/list-course.png">
+  <img class="ui image" src="../images/landing.png">
+  <img class="ui image" src="../images/list-professor.png">
+  <img class="ui image" src="../images/list-course.png">
 </div>
 
 This web application is designed to rate the professors and courses in the UH and also provide the information of the UH community events.
