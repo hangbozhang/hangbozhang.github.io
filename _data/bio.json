@@ -67,7 +67,8 @@
         "Git/GitHub",
         "IntelliJ",
         "Visual Studio Code",
-        "Meteor/React/Semantic UI"
+        "Meteor/React/Semantic UI",
+        "MongoDB"
       ]
     }
   ],
