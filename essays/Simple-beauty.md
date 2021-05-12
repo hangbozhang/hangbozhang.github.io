@@ -29,7 +29,7 @@ Another example will be the icons. You can always see those facebook, Instagram 
 You might see this a lot across the Internet, almost every website has at least one dropdown menu that hid a lot more additional information to keep the site clean and simple. But how to do that? Using raw HTML, you will need to write javascript functions to get the effect you want which obviously is more time consuming and also for someone who is not so good at javascript it will take a lot of time doing research. But using semantic UI, you don’t even need to know how that works all you have to do just put the class= “ui dropdown” and then at the bottom add the script $(‘.ui.dropdown’).dropdown();. The dropdown will start working as you wanted. 
 
 <h3>Conclusion</h3>
-There are more things that semantic UI can do to make our web coding life easier and simpler.<a href="https://semantic-ui.com/"> check here </a>. That kind simple is the beauty of the live for both programmers and users. So it’s definitely worth the time and frustration you invested in learning the UI framworks.
+There are more things that semantic UI can do to make our web coding life easier and simpler.<a href="https://semantic-ui.com/"> Check here </a>. That kind simple is the beauty of the live for both programmers and users. So it’s definitely worth the time and frustration you invested in learning the UI frameworks.
 
 
 

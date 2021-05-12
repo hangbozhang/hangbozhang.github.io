@@ -10,7 +10,7 @@ labels:
   - smart vs not smart
 ---
 
-A smart question will be a type of questions that hasn’t been asked with a meaningful, specific subject header and using a clear, correctly-spell, grammatical language to describe precisely about the question. 
+A smart question will be a type of questions that has not been asked with a meaningful, specific subject header and using a clear, correctly-spell, grammatical language to describe precisely about the question. 
 This type of question is smart because first it is not a question that someone already asked before so it will not waste either your time or others’ time. 
 Second with the meaningful, specific subject header it can help the viewer know what this question is about, so it can draw the help from those professional in this kind subject. 
 Third with the clear, correctly-spell, grammatical language to describe precisely about the question will help people know exactly what your problem is to get the result you want and provide clear direction in how to solve your problem.

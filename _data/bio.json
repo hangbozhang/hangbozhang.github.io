@@ -31,14 +31,14 @@
     {
       "name": "software engineering",
       "keywords": [
-        "Web application",
+        "Web application"
 
       ]
     },
     {
-      "name": "cybersecurity",
+      "name": "cyber security",
       "keywords": [
-        "NCL",
+        "NCL"
       ]
     },
     {
@@ -56,7 +56,7 @@
         "C++",
         "Java",
         "Javascript",
-        "HTML",
+        "HTML"
       ]
     },
     {
@@ -67,7 +67,7 @@
         "Git/GitHub",
         "IntelliJ",
         "Visual Studio Code",
-        "Meteor/React/Semantic UI",
+        "Meteor/React/Semantic UI"
       ]
     }
   ],
@@ -83,9 +83,9 @@
         "ICS 111",
         "ICS 211",
         "ICS 241",
-        "ICS 212 (current)",
-        "ICS 311 (current)",
-        "ICS 314 (current)"
+        "ICS 212",
+        "ICS 311",
+        "ICS 314"
       ]
     }
   ],
@@ -98,7 +98,7 @@
       "endDate": "2014-12-10",
       "summary": "control the CSSA website maintenance and updates",
       "highlights": [
-        "Maintain, update, and oversee official CSSA student club website",
+        "Maintain, update, and oversee official CSSA student club website"
       ]
     },
     {
@@ -141,7 +141,7 @@
       "summary": "Army Good Conduct Metal is awarded to a soldier who maintain high level of discipline"
     },
     {
-      "title": "Army Archivement Metal",
+      "title": "Army Achievement Metal",
       "date": "2019",
       "awarder": "US Army 25th ID 65th Engineer Battalion",
       "summary": "I was awarded AAM for the development of the standard of procedure for a new technology equipment and expert performance in the remote control weapon system."
