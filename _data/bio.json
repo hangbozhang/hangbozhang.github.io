@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96706",
+      "city": "Ewa Beach",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -42,8 +42,9 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "database",
       "keywords": [
+        "MySQL"
       ]
     }
   ],
@@ -56,7 +57,8 @@
         "C++",
         "Java",
         "Javascript",
-        "HTML"
+        "HTML",
+        "PHP"
       ]
     },
     {
@@ -68,7 +70,12 @@
         "IntelliJ",
         "Visual Studio Code",
         "Meteor/React/Semantic UI",
-        "MongoDB"
+        "MongoDB",
+        "NoSQL",
+        "MySQL",
+        "Windows",
+        "Unix",
+        "Eclipse"
       ]
     }
   ],
@@ -81,12 +88,6 @@
       "endDate": "Present",
       "gpa": "3.92",
       "courses": [
-        "ICS 111",
-        "ICS 211",
-        "ICS 241",
-        "ICS 212",
-        "ICS 311",
-        "ICS 314"
       ]
     }
   ],
@@ -124,7 +125,8 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Member, ACM Manoa, 2020-Present"
+        "Member, ACM Manoa, 2020-Present",
+        "Participate in fall 2020 NCL competition"
       ]
     }
   ],
@@ -151,7 +153,7 @@
       "title": "Dean's list",
       "date": "2020-present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Dean's list for 2 semester with one GPA 4.0 and the other one GPA 3.8"
+      "summary": "Dean's list for 3 semester with GPAs over 3.8"
     }
   ],
   "references": [
