@@ -6,7 +6,7 @@ image: images/energy.png
 title: Energy Calculator
 permalink: projects/energy
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-3
+date: 2021-05-03
 labels:
   - Website application
   - Web design
