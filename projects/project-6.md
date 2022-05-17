@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/self-driving-car.png
 title: Self Driving Car with JavaScript No Library
-permalink: projects/webapp
+permalink: projects/car
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-16
 labels:

@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/energy.png
 title: Energy Calculator
-permalink: projects/webapp
+permalink: projects/energy
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-3
 labels:
