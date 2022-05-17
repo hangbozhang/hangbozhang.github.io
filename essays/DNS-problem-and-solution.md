@@ -42,4 +42,4 @@ Signature: SIG
 <h3>Conclusion</h3>
 This mechanism is able to secure the DNS query and reply transportations with the cost of some extra waiting time due to the encryption and decryption. The man-in-the-middle attack and hijacking attack can be prevented by this mechanism. However, there are still some issues that need to be resolved before it can be used in the real world, such as the multiple users’ connection, DoS attack as the encryption and decryption will be using more computing power.
 
-<h3>The whole essay can be viewed at [Essay](https://drive.google.com/file/d/1wGdjass_0XXI9XLDd1fyaPhjmziS4jTw/view?usp=sharing)
+<h3>The whole essay can be viewed at </h3> [Essay](https://drive.google.com/file/d/1wGdjass_0XXI9XLDd1fyaPhjmziS4jTw/view?usp=sharing)
