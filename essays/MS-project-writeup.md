@@ -1,6 +1,6 @@
 <img class="ui image" src="../images/sbom.png">
 
-## Introduction
+<h3>Introduction</h3>
 
 In today’s software-centric landscape,
 comprehending the intricate interplay of dependencies
@@ -99,7 +99,7 @@ alignment with industry standards and best practices,
 elucidating its strategic evolution within the software
 landscape.
 
-## Methodology
+<h3>Methodology </h3>
 
 The methodology employed for establishing the
 database aimed to ensure systematic organization
@@ -111,7 +111,7 @@ construction steps as shown in Figure above, we laid the
 foundation for a robust dataset conducive to in-depth
 analysis and inquiry.
 
-## Conclusion
+<h3>Conclusion </h3>
 
 The findings from this study shed light on various
 aspects of dependency management practices and their
@@ -158,4 +158,4 @@ to optimize their development workflows, ensure project
 stability, and deliver high-quality software products to
 end-users.
 
-## The whole essay can be viewed at [Essay](../doc/SBOM-C-C++.pdf)
+<h3>The whole essay can be viewed at </h3> [Essay](../doc/SBOM-C-C++.pdf)
