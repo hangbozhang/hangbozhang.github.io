@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+published: true
+title: MS Project Writeup
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-06
+labels:
+  - SBOM
+  - C/C++
+  - Dependency
+---
 <img class="ui image" src="../images/sbom.png">
 
 <h3>Introduction</h3>
