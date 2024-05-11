@@ -14,9 +14,8 @@ labels:
   - Flutter
 summary: A mobile application designed to address the invasive species problem in Hawaii.
 ---
-<div>
-<img class="ui images">
-  <img class="ui image" src="../images/invasive.png">
+<div class="ui image">
+  <img class="ui image" src="../images/invasive.png" height="540">
 </div>
 
 Hawaiian ecosystems are under high level of threat from numerous 

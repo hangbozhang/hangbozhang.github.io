@@ -14,8 +14,7 @@ labels:
   - MongoDB
 summary: A web application designed to manage the schedule for helicopter maintenance phases.
 ---
-<div>
-<img class="ui images">
+<div class="ui images">
   <img class="ui image" src="../images/pmi.png">
 </div>
 

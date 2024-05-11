@@ -14,12 +14,11 @@ labels:
   - Blender
 summary: A desktop application designed to manage the table assignment for the restaurant.
 ---
-<div>
-<img class="ui images">
-<img src="../images/resident-alien.png">
+<div class="ui images">
+<img class="ui image" src="../images/resident-alien.png" height="360" width="540">
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/USLbCHkeDRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="360" src="https://www.youtube.com/embed/USLbCHkeDRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 We have brainstormed to come up with this game concept of a 3D 
